@@ -1,0 +1,15 @@
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Conjunta\GitPrueba\Examen_1P\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
